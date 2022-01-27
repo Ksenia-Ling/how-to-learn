@@ -20,14 +20,14 @@
 
 .logo {
   z-index: 1;
-  width: 183px;
-  height: 32px;
 }
 
 .logo_place_header {
   position: absolute;
   top: 30px;
   left: 64px;
+  width: 183px;
+  height: 32px;
 }
 
 .header__title {
@@ -307,6 +307,10 @@
 
 .logo_place_footer {
   background-image: url(../images/logo_place_footer.svg);
+  width: 183px;
+  height: 35px;
+  background-size: contain;
+  background-repeat: no-repeat;
 }
 
 .footer__column_content_copyright {
