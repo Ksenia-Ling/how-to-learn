@@ -1,0 +1,6 @@
+.link-opacity:hover {
+    opacity: .6;
+    transition-property: opacity;
+    transition-duration: 0.2s;
+    transition-timing-function: ease-in;
+  }
