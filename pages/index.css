@@ -63,11 +63,3 @@
 @import url(../blocks/logo/_place/logo_place_footer.css);
 @import url(../blocks/table/__cell/_theme/table__cell_theme_dark.css);
 @import url(../blocks/footer/__column/_content/footer__column_content_copyright.css);
-@keyframes rotation {
-    from {
-      transform: rotate(0deg);
-    }
-    to {
-      transform: rotate(360deg);
-    }
-  }
